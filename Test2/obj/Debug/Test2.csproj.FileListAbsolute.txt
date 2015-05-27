@@ -1,0 +1,17 @@
+c:\interviews\Test\Test1\Test2\bin\Debug\Test2.exe.config
+c:\interviews\Test\Test1\Test2\bin\Debug\Test2.exe
+c:\interviews\Test\Test1\Test2\bin\Debug\Test2.pdb
+c:\interviews\Test\Test1\Test2\obj\Debug\Test2.exe
+c:\interviews\Test\Test1\Test2\obj\Debug\Test2.pdb
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test2\bin\Debug\Test2.exe.config
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test2\obj\Debug\Test2.exe
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test2\obj\Debug\Test2.pdb
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test2\bin\Debug\Test2.exe
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test2\bin\Debug\Test2.pdb
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\JosephW\Desktop\Test\Test1\Test2\bin\Debug\Test2.exe.config
+C:\Users\JosephW\Desktop\Test\Test1\Test2\obj\Debug\Test2.exe
+C:\Users\JosephW\Desktop\Test\Test1\Test2\obj\Debug\Test2.pdb
+C:\Users\JosephW\Desktop\Test\Test1\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\JosephW\Desktop\Test\Test1\Test2\bin\Debug\Test2.exe
+C:\Users\JosephW\Desktop\Test\Test1\Test2\bin\Debug\Test2.pdb

@@ -1,0 +1,15 @@
+c:\interviews\test\Test1\Test1\bin\Debug\Test1.exe.config
+c:\interviews\test\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+c:\interviews\test\Test1\Test1\bin\Debug\Test1.exe
+c:\interviews\test\Test1\Test1\bin\Debug\Test1.pdb
+c:\interviews\test\Test1\Test1\obj\Debug\Test1.exe
+c:\interviews\test\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\david.clark\Documents\Interviews\Test\Test1\Test1\obj\Debug\Test1.csprojResolveAssemblyReference.cache
+C:\Users\JosephW\Desktop\Test\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\JosephW\Desktop\Test\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\JosephW\Desktop\Test\Test1\Test1\obj\Debug\Test1.pdb

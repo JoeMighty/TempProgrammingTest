@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Test2_VB
+</name>
+</assembly>
+<members>
+<member name="P:Test2_VB.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Test2_VB.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Test2_VB.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Test2_VB.Program.CountLetters(System.String)">
+	<summary>
+ Letter counter to output the frequency of letters appearing within a phrase.
+ </summary>
+	<param name="phrase">Phrase containing letters to count</param>
+</member>
+</members>
+</doc>
